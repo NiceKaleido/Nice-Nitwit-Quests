@@ -12,13 +12,13 @@
           ],
           "entity": {
             "type": "minecraft:interaction",
-            "nbt": "{Tags:[\"quest.interaction\"]}"
+            "nbt": "{Tags:[\"eden.quest.interaction\"]}"
           }
         }
       }
     },
     "rewards": {
-      "function": "nvr:quest/interaction/init"
+      "function": "nitwit_quests:interaction/init"
     }
   }
   
